@@ -30,7 +30,7 @@ color: rgba(27, 42, 83, 0.829);
 
 }
 #image{
-    width: 90vw;
+    max-width: 90%;
     margin: 0 auto;
     padding-top: 50px;
 
